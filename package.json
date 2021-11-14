@@ -1,0 +1,26 @@
+{
+  "name": "TP5_WEB_OCRES",
+  "version": "1.0.0",
+  "description": "A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahhotcaro/TP5_WEB_OCRES.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahhotcaro/TP5_WEB_OCRES/issues"
+  },
+  "homepage": "https://github.com/ahhotcaro/TP5_WEB_OCRES#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "nodemon": "^2.0.15"
+  }
+}
